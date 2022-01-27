@@ -1,8 +1,4 @@
-
-//add Ganesh 
-
-//add Chaudhari 
-
+//This Ganesh Chaudhari 
 def add(x,y):
     pass  // by master branch
 //sub
